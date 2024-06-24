@@ -9,9 +9,9 @@ export default function Root(){
         <>
         <div id='topbar'>
         <h1 id='creatorVerse'>CREATORVERSE</h1>
-        <div className='route-btn'>
+        <div className='header-btn'>
             <button>
-                <Link to={`showCreators`}>
+                <Link to={`creators`}>
                 SHOW ALL CREATORS
                 </Link>
             </button>     
